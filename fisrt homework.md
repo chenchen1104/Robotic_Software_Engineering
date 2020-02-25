@@ -24,3 +24,6 @@ Due to the complexity of technology and the limitations of R & D philosophy, the
 My ideal service robot is a multi-functional elderly robot, which can not only give the elderly the physical care, but also the spiritual care. The functions it can achieve include cleaning, home monitoring,danger alerts,simple medical examinations, calling doctors and ambulances, assisting up and down,cooking,purchasing necessities, learning and applying new skills,playing chess,taking care of the emotions of the elderly,chatting.<br>
 <br>
 And its significance, as far as the social level is concerned, the development of elderly care robots can effectively reduce the burden on families and society, alleviate the pressure of a serious shortage of elderly care workers, and ensure social stability and development also play an important role. At the personal level, it can improve the quality of life of the elderly and give them physical abd spiritual care at the same time, but also mentally, so that children can work at ease and worry about their parents less.<br>
+
+## reference
+[1]Zhao Yating, Zhao Han, Liang Changyong, Sun Hao, Wu Qilin.The Status Quo and Suggestions for the Development of Aged Care Robots [J] .Chinese Journal of Mechanical Engineering, 2019,55 (23): 13-24.<br>
