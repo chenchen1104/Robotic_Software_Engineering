@@ -10,3 +10,5 @@
 （4）usb_cam ：调用摄像头<br>
 （5）take_photo_sub ： 实现拍照功能<br>
 （6）face_detection ： 进行人脸检测<br>
+
+节点间的关系另附图片
