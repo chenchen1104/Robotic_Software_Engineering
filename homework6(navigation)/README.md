@@ -1,6 +1,6 @@
 本程序包实现功能为：<br>
 -------------------
-通过和机器人进行语音交流，利用gazebo和rviz进行导航仿真,使其到达预先设定的四个地点bookshelf,bedroom,kitchen,table。<br>
+通过和机器人进行语音交流,利用gazebo和rviz进行导航仿真,使其到达预先设定的四个地点bookshelf,bedroom,kitchen,table。<br>
 
 
 本程序包包含四部分内容：<br>
@@ -10,7 +10,7 @@
 (3)maps文件夹下包含3个文件：my_map.pgm和my_map.yaml，是机器人扫描生成的地图文件。my_map.jpg是对地图中位置的含义进行解释。<br>
 (4)myrobert文件夹是机器人的语音数据库。<br>
 
-myrobert结点和navi_point结点的通信：/navi_to_point话题 和 /navigation_feed_point话题。<br>
+myrobert结点和navi_point结点的通信：/navi_to_point话题 和 /navigation_feed_point话题<br>
 ----------------------------------------------------------------------------------------
 （1）myrobert结点识别人的语音命令，向/navi_to_point话题发布命令，告知将要去的地址的名字。navi_point结点订阅该话题，使机器人前往目的地。<br>
 （2）navi_point结点完成命令后，向/navigation_feed_point话题发布反馈信息，告知myrobert节点已经到达指定位置。<br>
